@@ -1,0 +1,501 @@
+{
+  "929348110260510720.916039023229825096": {
+    "name": "yete",
+    "color": "#000000",
+    "hoist": false,
+    "position": 42,
+    "permissions": 268435464,
+    "mentionable": false,
+    "count": 2,
+    "members": [
+      "744229839137144925",
+      "907693998733402123"
+    ],
+    "channelOverwrites": []
+  },
+  "929834383127498772.916039023229825096": {
+    "name": "sa",
+    "color": "#000000",
+    "hoist": false,
+    "position": 8,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928371057306529793.916039023229825096": {
+    "name": "✔️ | Katıldı",
+    "color": "#000000",
+    "hoist": false,
+    "position": 29,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928344035389743125.916039023229825096": {
+    "name": "test rol 1",
+    "color": "#da4d4d",
+    "hoist": false,
+    "position": 14,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "929834995521056899.916039023229825096": {
+    "name": "kimse bas iksde",
+    "color": "#000000",
+    "hoist": false,
+    "position": 7,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928345597377929257.916039023229825096": {
+    "name": "test rol 4",
+    "color": "#741937",
+    "hoist": false,
+    "position": 11,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928344034131456082.916039023229825096": {
+    "name": "Founder",
+    "color": "#000000",
+    "hoist": false,
+    "position": 10,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "929835003695751258.916039023229825096": {
+    "name": "kimse bas iksde",
+    "color": "#3f1313",
+    "hoist": false,
+    "position": 3,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928027609227481129.916039023229825096": {
+    "name": "______________________",
+    "color": "#f1c40f",
+    "hoist": false,
+    "position": 21,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928345136667197493.916039023229825096": {
+    "name": "Şüpheli ⛔️",
+    "color": "#fa0505",
+    "hoist": false,
+    "position": 23,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 2,
+    "members": [
+      "914920151848218715",
+      "926514206797365248"
+    ],
+    "channelOverwrites": []
+  },
+  "929834996271829082.916039023229825096": {
+    "name": "sa",
+    "color": "#ffffff",
+    "hoist": false,
+    "position": 6,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928344040364200077.916039023229825096": {
+    "name": "s",
+    "color": "#000000",
+    "hoist": false,
+    "position": 12,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928371059772768318.916039023229825096": {
+    "name": "Uyarı",
+    "color": "#ff0000",
+    "hoist": false,
+    "position": 31,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928029547524395038.916039023229825096": {
+    "name": "Bot Commands",
+    "color": "#000000",
+    "hoist": false,
+    "position": 28,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928029568999243817.916039023229825096": {
+    "name": "Alone",
+    "color": "#7a72ff",
+    "hoist": false,
+    "position": 15,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "921683978409353217.916039023229825096": {
+    "name": "Çekiliş Katılımcısı",
+    "color": "#ffffff",
+    "hoist": false,
+    "position": 18,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "921683979793477643.916039023229825096": {
+    "name": "______________________",
+    "color": "#f1c40f",
+    "hoist": false,
+    "position": 17,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "920606881188282408.916039023229825096": {
+    "name": "Developer",
+    "color": "#000000",
+    "hoist": false,
+    "position": 41,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 4,
+    "members": [
+      "914920151848218715",
+      "916064021143248936",
+      "922490073210052618",
+      "928031540955471952"
+    ],
+    "channelOverwrites": []
+  },
+  "916064386655879188.916039023229825096": {
+    "name": "Bots",
+    "color": "#000000",
+    "hoist": false,
+    "position": 40,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 4,
+    "members": [
+      "913873987086467122",
+      "921692920011169822",
+      "921693110529048617",
+      "922216860857032786"
+    ],
+    "channelOverwrites": []
+  },
+  "927218011520237589.916039023229825096": {
+    "name": "Taglı",
+    "color": "#da0000",
+    "hoist": false,
+    "position": 20,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "929835002068365322.916039023229825096": {
+    "name": "kimse bas iksde",
+    "color": "#000000",
+    "hoist": false,
+    "position": 5,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "929835002429071391.916039023229825096": {
+    "name": "kimse bas iksde",
+    "color": "#000000",
+    "hoist": false,
+    "position": 4,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "920609850864578591.916039023229825096": {
+    "name": "Dante †",
+    "color": "#3b0030",
+    "hoist": true,
+    "position": 32,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928345139292827718.916039023229825096": {
+    "name": "Muted",
+    "color": "#160404",
+    "hoist": false,
+    "position": 24,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928372722516508712.916039023229825096": {
+    "name": "666 †",
+    "color": "#21003b",
+    "hoist": true,
+    "position": 35,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "929835005075673118.916039023229825096": {
+    "name": "31",
+    "color": "#000000",
+    "hoist": false,
+    "position": 2,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928372718938755183.916039023229825096": {
+    "name": "Lucifer †",
+    "color": "#0b014f",
+    "hoist": true,
+    "position": 34,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 1,
+    "members": [
+      "928031540955471952"
+    ],
+    "channelOverwrites": []
+  },
+  "928345618156511293.916039023229825096": {
+    "name": "test rol 3",
+    "color": "#9b0e0e",
+    "hoist": false,
+    "position": 13,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "929835005683830814.916039023229825096": {
+    "name": "kimse bas iksde",
+    "color": "#000000",
+    "hoist": false,
+    "position": 1,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928029560530931742.916039023229825096": {
+    "name": "1943",
+    "color": "#6978ff",
+    "hoist": false,
+    "position": 26,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "920607812994883625.916039023229825096": {
+    "name": "M E N C I A",
+    "color": "#f3f9f6",
+    "hoist": false,
+    "position": 38,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "920607073664909363.916039023229825096": {
+    "name": "Owner",
+    "color": "#000000",
+    "hoist": false,
+    "position": 39,
+    "permissions": 2146954949,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "920609610203811870.916039023229825096": {
+    "name": "Devil The Monârch †",
+    "color": "#56041e",
+    "hoist": true,
+    "position": 33,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "920607950081511434.916039023229825096": {
+    "name": "Gods of Mencia",
+    "color": "#ffffff",
+    "hoist": true,
+    "position": 37,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "921683987812982815.916039023229825096": {
+    "name": "LGBT",
+    "color": "#f1c40f",
+    "hoist": false,
+    "position": 16,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928345134989467658.916039023229825096": {
+    "name": "Monârch Unregistered",
+    "color": "#0f0f0f",
+    "hoist": true,
+    "position": 19,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 1,
+    "members": [
+      "877895261073055794"
+    ],
+    "channelOverwrites": []
+  },
+  "920608863395397643.916039023229825096": {
+    "name": "Satan  †",
+    "color": "#331241",
+    "hoist": true,
+    "position": 36,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 1,
+    "members": [
+      "852667869782343691"
+    ],
+    "channelOverwrites": []
+  },
+  "921683978870747156.916039023229825096": {
+    "name": "______________________",
+    "color": "#f1c40f",
+    "hoist": false,
+    "position": 27,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928346765189611590.916039023229825096": {
+    "name": "kimse bas iksde",
+    "color": "#5a4f4f",
+    "hoist": false,
+    "position": 9,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "928344032185307206.916039023229825096": {
+    "name": "Mannlich",
+    "color": "#00deff",
+    "hoist": true,
+    "position": 22,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 1,
+    "members": [
+      "744229839137144925"
+    ],
+    "channelOverwrites": []
+  },
+  "928371259115454485.916039023229825096": {
+    "name": "Uyarı",
+    "color": "#ff0000",
+    "hoist": false,
+    "position": 30,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "921683978082205696.916039023229825096": {
+    "name": "21",
+    "color": "#ff5f5f",
+    "hoist": false,
+    "position": 25,
+    "permissions": 8,
+    "mentionable": false,
+    "count": 0,
+    "members": [],
+    "channelOverwrites": []
+  },
+  "930154599237709834.916039023229825096": {
+    "name": "Mannlich",
+    "color": "#00deff",
+    "hoist": true,
+    "position": 22,
+    "permissions": 0,
+    "mentionable": false,
+    "count": 1,
+    "members": [
+      "744229839137144925"
+    ],
+    "channelOverwrites": []
+  }
+}
